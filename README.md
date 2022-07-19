@@ -1,51 +1,78 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Project Name
+Leaderboard
 
-# Webpack Boilerplate
+# Description the project.
 
-> In this exercise I build a simple yet powerful webpack boilerplate, which I can use later use as a starting point in my projects.
+Leaderboard website is a page that contains information that you already  inputed names and scores of players.
+
+
+The pull request is opened to get a review on the project and check for any required changes.
 
 ## Built With
 
-- HTML
-- Javascript
+- html/css/js.
+- following linters standards.
+- following github flows standards.
+- webpack.
 
-## Live Demo
-
-[Live Demo Link](https://xsidx.github.io/webpack-boilerplate/)
 
 ## Getting Started
 
-## Prerequisites
+**This web page is books site with my List of scores during a video games play**
 
-- Git/Github
-- VSCode
-- [Webpack 5](https://webpack.js.org/guides/getting-started/#basic-setup)
-- knowledge in Html and Javascript
+**Leaderboard project  works on mobile and disktop.**
+****************************************************
+To get a local copy up and running follow these simple example steps.
+follow>>>>>>>>>
 
-## Install
 
-- To install locally run, _git clone git@github.com:XsidX/webpack-boilerplate.git_, in your terminal.
-- open the cloned directory with VSCode
-- install live server extension for VSCode.
-- right click on the index.html file and select open with live server.
+### Setup
 
-## Usage
+to use the project Leaderboard please follow :
+ >Open GitHub and go to my GitHub repository name: Leaderboard.to clone.
+ >Click “Code” and copy the given URL.
+ >click code and copy the URL.
 
-You're free to use this project however you like it for educational purposes.
+ >click code and copy the URL.
+
+ >Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
+
+ >Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
+
+ >Syntax:
+
+  $ git clone {repository URL}
+
+### Usage
+
+>open your directory Leaderboard/
+
+_use vs-code or any IDE  to view line code .
+
+_use you preferd browser to run the file .html to get project website.
+to run in terminal / git  :
+-----------------
+ $ npm install 
+
+ then
+
+ $ npm start
+ _____________
 
 ## Authors
 
-👤 **Sidney**
+👤 **Said laasri**
 
-- GitHub: [XsidX](https://github.com/XsidX)
-- Twitter: [@\_sid_o](https://twitter.com/_sid_o_)
-- LinkedIn: [Sidney Kaguli](https://www.linkedin.com/in/sidney-kaguli-0116801a6/)
+- GitHub: [@Said-laasri](https://github.com/Said-laasri)
+- Twitter: [@saidlaasr](https://twitter.com/saidlaasr)
+- LinkedIn: [SAID LAASRI](https://www.linkedin.com/in/said-laasri-8a4367172/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+thanks:
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -53,7 +80,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
--Microverse module 2, block 2, Set up project with Webpack activity/lesson.
+- Microverse
+- Inspiration
+- etc
 
 ## 📝 License
 
