@@ -95,6 +95,17 @@ form {
   justify-content: center;
 }
 
+ul > li {
+  width: 100%;
+  list-style: none;
+  font-size: large;
+  font-weight: 600;
+}
+
+ul > li:nth-child(odd) {
+  background-color: rgb(242, 250, 250);
+}
+
 p {
   font-size: 1em;
   font-weight: 600;
