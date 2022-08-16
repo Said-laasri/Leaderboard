@@ -59,6 +59,10 @@ to run in terminal / git  :
  $ npm start
  _____________
 
+## LIVE DEMO
+
+[LEADERBOARD](https://incandescent-souffle-974b06.netlify.app/)
+
 ## Authors
 
 👤 **Said laasri**
